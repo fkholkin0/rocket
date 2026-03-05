@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "content",
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 76
+  },
+  "alwaysUpdateLinks": true
+}

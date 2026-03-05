@@ -1,0 +1,9 @@
+{
+  "theme": "moonstone",
+  "interfaceFontFamily": "Noto Sans",
+  "textFontFamily": "Noto Sans",
+  "monospaceFontFamily": "PT Mono",
+  "accentColor": "#4db4cb",
+  "showRibbon": true,
+  "showViewHeader": true
+}

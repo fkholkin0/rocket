@@ -1,0 +1,16 @@
+{
+  "width": 300,
+  "height": 200,
+  "margin": 80,
+  "fontSize": 8,
+  "fontColor": "black",
+  "side": "bottom-right",
+  "enabled": true,
+  "backgroundColor": "#f3f0e933",
+  "groupColor": "#bdd5de55",
+  "nodeColor": "#c3d6d7",
+  "hijackToolbar": false,
+  "drawActiveViewport": true,
+  "primaryNavigationStrategy": "ZOOM",
+  "secondaryNavigationStrategy": "PAN"
+}

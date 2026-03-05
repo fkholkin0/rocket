@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "a08e60128942ea50",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5cc3c6abde03290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ceaedad64745605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "прокачка FKH/Достижения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Достижения"
+            }
+          },
+          {
+            "id": "c431bc2c0e058fea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "прокачка FKH/FKH как продукт.canvas",
+                "viewState": {
+                  "x": 592.9445437051993,
+                  "y": 939.6391042022672,
+                  "zoom": -0.07517491460172551
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "FKH как продукт"
+            }
+          },
+          {
+            "id": "a5cec19b447fd7b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "content/FKH как продукт 2026-03-05 11.41.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FKH как продукт 2026-03-05 11.41.37.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d6b68ecf03e3e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d5cb0f24ac5d524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb1ee3edd912014c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1858a470f11b72c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "01690d62ab1038ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b70e3423687bac39",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c58d466ce2ebc79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5e66f97072dadb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily notes/2025-08-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-30"
+            }
+          },
+          {
+            "id": "7637a6e7ecc864d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily notes/2025-08-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-30"
+            }
+          },
+          {
+            "id": "2b46558c3486babe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82a72b13b85c9ab3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы для собеседования продакта.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вопросы для собеседования продакта"
+            }
+          },
+          {
+            "id": "f43fe0c06b408034",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "hide-folders:Hide hidden folders again": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "spreadsheets:New Spreadsheet": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c431bc2c0e058fea",
+  "lastOpenFiles": [
+    "content/Pasted image 20260305144944.png",
+    "content/FKH как продукт 2026-03-05 11.41.37.excalidraw.md",
+    "прокачка FKH/FKH как продукт.canvas",
+    "прокачка FKH/Достижения.md",
+    "content/Pasted image 20260305143530.png",
+    "content/Pasted image 20260305143243.png",
+    "content/Pasted image 20260305141908.png",
+    "content/Pasted image 20260305141144.png",
+    "content/Pasted image 20260305140636.png",
+    "content/Pasted image 20260305132400.png",
+    "content/Pasted image 20260305132302.png",
+    "content/Pasted image 20260305122918.png",
+    "content/Pasted image 20260305115737.png",
+    "content/Pasted image 20260305115644.png",
+    "FKH как продукт.md",
+    "прокачка FKH/дневник практик.md",
+    "прокачка FKH/Шаги для Феди по профессиональной идентичности.md",
+    "Untitled.md",
+    "Список музыки для Руса.md",
+    "Репортинг на python.md",
+    "резюме даши.md",
+    "результаты.md",
+    "Презентация дерева метрик.md",
+    "Презентация дерева метрик.canvas",
+    "преза аналитического решения vk.md",
+    "дерево для презентации.md",
+    "АИ как конвеер.md",
+    "прокачка FKH/Достижение.canvas",
+    "прокачка FKH/профессионал я.md",
+    "прокачка FKH/Расчеты на инфраструктуру.md",
+    "прокачка FKH/Работа над ошибками за прошедшие 10 лет.md",
+    "прокачка FKH/Нашел себя через музыку, нашел свой внутренний голос.md",
+    "content/Расчеты на инфраструктуру 2026-02-27 14.09.59.excalidraw.md",
+    "прокачка FKH/Страшные вопросы от которых страшно.md",
+    "работа Даши/Личный кабинет с AI.md",
+    "content/Личный кабинет с AI 2026-02-27 20.32.28.excalidraw.md",
+    "AI что это такое и как его \"запрягать\".canvas",
+    "Projects/Устроим Федю на работу/Спич для собеседования с руководителем.md",
+    "content/АИ как конвеер 2026-02-24 11.14.17.excalidraw.md",
+    "Projects/Устроим Федю на работу/Правильные слова.md",
+    "Untitled",
+    "cv_kholkin.html",
+    "content/1_A_B тестирование 2025-09-03 14.32.56.excalidraw.md.bak2",
+    "Projects/SkillSpace/Карта проекта.canvas",
+    "прокачка FKH/резюме v4.0/Старое резюме.canvas",
+    "прокачка FKH/опыт и работа над ошибками/презентация.canvas",
+    "План",
+    "прокачка FKH/резюме v4.0/резюме Mk.5",
+    "content/Холькин Фёдор (4).pdf",
+    "работа Даши/основной шаблон информации для cv.pdf",
+    "работа Даши/template.html",
+    "работа Даши/generate_pdf.py",
+    "работа Даши/requirements.txt",
+    "БПМ/БПМ.canvas",
+    "прокачка FKH/страхи/карта страхов.canvas",
+    "прокачка FKH/страхи/старая карта страхов, черновой вариант.canvas"
+  ]
+}
