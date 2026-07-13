@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5cc3c6abde03290",
+        "id": "cef0ec850eeb5598",
         "type": "tabs",
         "children": [
           {
-            "id": "1ceaedad64745605",
+            "id": "8116b9e5b97b545a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "first launch.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "first launch"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -169,10 +162,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hide-folders:Show hidden folders": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -183,53 +178,56 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "spreadsheets:New Spreadsheet": false,
-      "hide-folders:Hide hidden folders again": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ceaedad64745605",
+  "active": "8116b9e5b97b545a",
   "lastOpenFiles": [
-    "ыва.md",
+    "roudmap.canvas",
+    "omni.excalidraw.md",
+    "Первая встреча с Германом.md",
+    "Поиск соответсвий.excalidraw.md",
+    "Рисовалка.md",
+    "Правки отчетов.excalidraw.md",
+    "content/Pasted image 20260622121559.png",
+    "Drawing 2026-06-22 12.12.29.excalidraw.md",
+    "content/Pasted image 20260622121420.png",
+    "Untitled.md",
+    "CLAUDE.md",
+    "00_setup_log.md",
+    "кейс GS.excalidraw.md",
+    "content/Pasted image 20260616153040.png",
+    "Drawing 2026-06-16 14.28.23.excalidraw.md",
+    "content/exc 2026-03-06 11.07.16.excalidraw.md",
+    "Drawing 2026-06-11 09.29.55.excalidraw.md",
+    "content/Pasted image 20260615183210.png",
     "first launch.canvas",
+    "content/Pasted Image 20260609164448_622.png",
+    "content/Pasted Image 20260609164353_612.png",
+    "content/Pasted Image 20260609164311_259.png",
+    "content/Pasted Image 20260609164204_662.png",
+    "content/Pasted Image 20260609164102_685.png",
+    "content/Pasted Image 20260609163355_602.png",
+    "Drawing 2026-06-03 14.55.26.excalidraw.md",
+    "content/Первая встреча с Германом 2026-05-22 09.56.18.excalidraw.md",
+    "sql.sql",
+    "Untitled.base",
+    "Untitled 1.base",
+    "ыва.md",
     "content/ыва 2026-03-05 17.55.06.excalidraw.md",
-    "content/Pasted image 20260305144944.png",
     "content/FKH как продукт 2026-03-05 11.41.37.excalidraw.md",
     "прокачка FKH/FKH как продукт.canvas",
     "прокачка FKH/Достижения.md",
-    "content/Pasted image 20260305143530.png",
-    "content/Pasted image 20260305143243.png",
-    "content/Pasted image 20260305141908.png",
-    "content/Pasted image 20260305141144.png",
-    "content/Pasted image 20260305140636.png",
-    "content/Pasted image 20260305132400.png",
-    "content/Pasted image 20260305132302.png",
-    "content/Pasted image 20260305122918.png",
-    "content/Pasted image 20260305115737.png",
     "FKH как продукт.md",
     "прокачка FKH/дневник практик.md",
     "прокачка FKH/Шаги для Феди по профессиональной идентичности.md",
     "Список музыки для Руса.md",
     "Репортинг на python.md",
     "резюме даши.md",
-    "результаты.md",
-    "Презентация дерева метрик.md",
     "Презентация дерева метрик.canvas",
-    "преза аналитического решения vk.md",
-    "дерево для презентации.md",
-    "АИ как конвеер.md",
     "прокачка FKH/Достижение.canvas",
-    "прокачка FKH/профессионал я.md",
-    "прокачка FKH/Расчеты на инфраструктуру.md",
-    "прокачка FKH/Работа над ошибками за прошедшие 10 лет.md",
-    "прокачка FKH/Нашел себя через музыку, нашел свой внутренний голос.md",
-    "content/Расчеты на инфраструктуру 2026-02-27 14.09.59.excalidraw.md",
-    "прокачка FKH/Страшные вопросы от которых страшно.md",
-    "работа Даши/Личный кабинет с AI.md",
-    "content/Личный кабинет с AI 2026-02-27 20.32.28.excalidraw.md",
     "AI что это такое и как его \"запрягать\".canvas",
-    "Projects/Устроим Федю на работу/Спич для собеседования с руководителем.md",
-    "content/АИ как конвеер 2026-02-24 11.14.17.excalidraw.md",
     "Untitled",
     "cv_kholkin.html",
     "content/1_A_B тестирование 2025-09-03 14.32.56.excalidraw.md.bak2",
@@ -240,10 +238,6 @@
     "прокачка FKH/резюме v4.0/резюме Mk.5",
     "content/Холькин Фёдор (4).pdf",
     "работа Даши/основной шаблон информации для cv.pdf",
-    "работа Даши/template.html",
-    "работа Даши/generate_pdf.py",
-    "работа Даши/requirements.txt",
-    "БПМ/БПМ.canvas",
-    "прокачка FKH/страхи/карта страхов.canvas"
+    "БПМ/БПМ.canvas"
   ]
 }
